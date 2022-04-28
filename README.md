@@ -71,7 +71,7 @@ You can also take a glimpse of our Project, just follow the below steps:
 
 ## Demo
 
-[Credobeuty.com](https://heartfelt-centaur-27da12.netlify.app/)
+[Credobeuty.com](https://luxury-otter-de9ba2.netlify.app/)
 
 <br>
 
